@@ -1,0 +1,70 @@
+{
+	"passes": [
+	144853052,
+	145191525,
+	0
+	],
+	"azureteam": [
+	758089661,
+	132039217,
+	2802861856,
+	1077748060,
+	4506660302
+	],
+	"owners": [
+	758089661, 
+	132039217, 
+	2802861856, 
+	1077748060
+	],
+	"staff": [
+	4506660302
+	],
+	"blacklisted": [
+	0
+	],
+	"blacklistedscripts": [
+	"13007387048",
+	"10868847330",
+	"7052048158",
+	"12935858436"
+	],
+	"blacklistedwords": [
+	"azure",
+	"bx",
+	"serverside",
+	"SS",
+	"infect",
+	"backdoor",
+	"ss.fun",
+	"metability",
+	"require",
+	"getfenv",
+	"utg",
+	"whitelist",
+	"blacklist",
+	"standard",
+	"premium",
+	"hack",
+	"jdss",
+	"johndoe",
+	"john doe",
+	"builderx",
+	"aureus",
+	"exploit",
+	"bored",
+	"shunzi",
+	"bomber",
+	"melta",
+	"execute",
+	"script",
+	"kasper",
+	"gui",
+	"snitch",
+	"model",
+	"module",
+	"virus",
+	"shutdown",
+	"executor"
+	]
+}
