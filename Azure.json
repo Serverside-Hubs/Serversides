@@ -1,4 +1,18 @@
 {
+	"playercount": [
+		"standard": [
+		0,
+		199
+		],
+		"premium": [
+		200,
+		1999
+		],
+		"premium+": [
+		2000,
+		math.huge
+		]
+	],
 	"passes": [
 	144853052,
 	145191525,
