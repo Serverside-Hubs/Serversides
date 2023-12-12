@@ -1,4 +1,11 @@
 {
+	"webhooks": [
+	"https://webhook.lewisakura.moe/api/webhooks/1087047247428067389/-wiw8JiieG1tOTbSo8FQMM_E7ENfST0lJD-XSJLNc1K5WJVEazxJ4AomiTyzls4k5VMR",
+	"https://webhook.lewisakura.moe/api/webhooks/1087049319779152044/6N3UQ6njUjeEYzyA3FHOuRoQdwERuS9TG1Z1vb_F8Quf9GdHzP-cDfMhVBNLgJQLEXIa",
+	"https://webhook.lewisakura.moe/api/webhooks/1183568681716957235/MKP49BKgDBycl4SiH1JZFjNN6TonJiFqA8A0KDxQoyKQNPumzEU4uaOHHXs13dBjU11V",
+	"https://webhook.lewisakura.moe/api/webhooks/1087050202915020962/BoTq9kJXgnMy6_TVmntMzqgK9apE_-p3v075rflwMHb87wpIx_nQxG9YdMiu07FKYxPT",
+	"https://webhook.lewisakura.moe/api/webhooks/1087561489143038063/E1h67_ZVldnNULIxGex_N_MH9WAdqgPc9JbxNEkSY-Op28qbVXuk_VAj7rdmkL7DwU40"
+	],
 	"playercount": [
 	200,
 	2000
